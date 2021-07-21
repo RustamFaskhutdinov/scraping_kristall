@@ -1,0 +1,5 @@
+venv/*
+ignore
+parsed_list
+.ipynb_checkpoints
+.idea
