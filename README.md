@@ -3,4 +3,4 @@
 
 ## Goal
 
-Scrap all products info from some categories *(for their subsequent export to customer's landing page)*
+Scrape all products info from some categories *(for their subsequent export to customer's landing page)*
